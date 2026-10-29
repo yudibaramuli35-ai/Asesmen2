@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
+:root{--blue:#155eef;--blue-dark:#123b8a;--yellow:#ffd166;--ink:#172b4d;--muted:#667085;--line:#e5eaf2;--soft:#f4f7fc}
+*{box-sizing:border-box}
+body{font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;background:linear-gradient(180deg,#edf4ff 0,#f8faff 340px,#f7f9fc 100%);color:var(--ink);min-height:100vh}
+.app-nav{background:linear-gradient(110deg,#123b8a,#155eef);box-shadow:0 4px 18px #123b8a22}
+.navbar-brand{letter-spacing:.03em;font-size:1rem;display:flex;align-items:center;gap:.6rem}
+.brand-mark{display:inline-grid;place-items:center;width:34px;height:34px;background:var(--yellow);color:#15336e;border-radius:11px;font-weight:800}
+.screen-card{background:#fff;border:1px solid #e7edf7;border-radius:24px;box-shadow:0 18px 50px #1b3a6810;padding:clamp(20px,4vw,40px)}
+.hero-card{overflow:hidden;position:relative}
+.hero-card:after{content:"";position:absolute;right:-90px;top:-110px;width:300px;height:300px;background:#eaf1ff;border-radius:50%;z-index:0}
+.hero-card>.row{position:relative;z-index:1}
+.hero-badge{display:inline-flex;align-items:center;background:#fff4d4;border:1px solid #ffe4a0;border-radius:100px;padding:8px 13px;font-size:.82rem;font-weight:700;margin-bottom:24px}
+.eyebrow{font-size:.73rem;font-weight:800;letter-spacing:.16em;color:var(--blue);margin-bottom:10px}
+h1{font-size:clamp(2rem,4vw,3.25rem);font-weight:800;letter-spacing:-.045em;line-height:1.12}
+.lead{font-size:1.12rem}
+.feature-row{display:flex;flex-wrap:wrap;gap:10px;margin-top:24px}
+.feature-row span{background:#f2f6ff;border:1px solid #e1eaff;border-radius:12px;padding:10px 13px;font-size:.85rem;font-weight:600}
+.notice{background:#fff9e8;border:1px solid #ffe5a3;border-radius:14px;padding:14px 16px;font-size:.9rem;color:#5f4a15;line-height:1.6}
+.form-panel{background:#f8faff;border:1px solid #e5ecf8;border-radius:20px;padding:clamp(18px,3vw,28px)}
+.form-label{font-size:.9rem;font-weight:700}
+.form-control{border-color:#d9e2f1;border-radius:12px}
+.form-control:focus{border-color:#7da7ff;box-shadow:0 0 0 .22rem #155eef1a}
+.btn{border-radius:12px;font-weight:700;transition:transform .18s ease,box-shadow .18s ease}
+.btn:hover:not(:disabled){transform:translateY(-1px);box-shadow:0 7px 18px #155eef24}
+.btn-primary{background:var(--blue);border-color:var(--blue)}
+.btn-primary:disabled{opacity:.45}
+.quiz-topbar{padding:22px 26px}
+.timer-box{display:flex;flex-direction:column;align-items:center;min-width:112px;background:#fff7dd;border:1px solid #ffe6a4;border-radius:15px;padding:8px 15px;color:#6e5010}
+.timer-box span{font-size:.72rem;font-weight:700}
+.timer-box strong{font-size:1.35rem;font-variant-numeric:tabular-nums}
+.timer-box.urgent{background:#fff0f0;border-color:#ffc7c7;color:#b42318;animation:pulse 1s infinite}
+.progress{height:9px;border-radius:99px;background:#eaf0fb}
+.progress-bar{background:linear-gradient(90deg,#155eef,#68a0ff);border-radius:99px;transition:width .3s ease}
+.question-card{min-height:420px}
+.question-chip,.difficulty-chip{font-size:.72rem;font-weight:800;letter-spacing:.06em;padding:8px 11px;border-radius:9px}
+.question-chip{background:#eaf1ff;color:#1749a5}
+.difficulty-chip{background:#f1f4f9;color:#596579;letter-spacing:0}
+.question-title{font-size:clamp(1.15rem,2.5vw,1.65rem);font-weight:750;line-height:1.5;margin:12px 0 24px}
+.options-list{display:grid;gap:12px}
+.option-btn{display:flex;align-items:flex-start;gap:13px;text-align:left;width:100%;padding:14px 16px;background:#fff;border:1.5px solid #e0e7f2;border-radius:14px;color:var(--ink);line-height:1.45;white-space:normal}
+.option-letter{flex:0 0 31px;height:31px;border-radius:9px;background:#f0f4fb;display:grid;place-items:center;font-weight:800;color:#39557d}
+.option-btn:hover:not(:disabled){border-color:#8eb0ff;background:#f7faff}
+.option-btn:disabled{opacity:1;cursor:default}
+.option-btn.correct{border-color:#12b76a;background:#ecfdf3}
+.option-btn.correct .option-letter{background:#12b76a;color:white}
+.option-btn.incorrect{border-color:#f04438;background:#fff1f0}
+.option-btn.incorrect .option-letter{background:#f04438;color:white}
+.feedback-panel{padding:18px;border-radius:16px;line-height:1.6;animation:fadeUp .25s ease}
+.feedback-panel.good{background:#ecfdf3;border:1px solid #abefc6;color:#05603a}
+.feedback-panel.bad{background:#fff1f0;border:1px solid #fecdca;color:#912018}
+.feedback-panel.essay-feedback{background:#f2f6ff;border:1px solid #d4e2ff;color:#1d3e77}
+.feedback-heading{font-size:1.2rem;font-weight:800;margin-bottom:6px}
+.essay-area{min-height:180px;resize:vertical}
+.result-card{max-width:900px;margin:0 auto}
+.result-icon{font-size:3rem;text-align:center;margin-bottom:10px;animation:bounce .8s ease}
+.score-circle{width:150px;height:150px;border-radius:50%;background:linear-gradient(145deg,#eaf1ff,#fff);border:8px solid #155eef;display:flex;align-items:center;justify-content:center;margin:22px auto;color:#123b8a;font-size:2.6rem;font-weight:800;box-shadow:0 10px 28px #155eef18}
+.score-circle small{font-size:1rem;margin-top:18px}
+.identity-cell,.stat-box{height:100%;padding:16px;background:#f7f9fd;border:1px solid #e7edf7;border-radius:14px}
+.identity-cell span,.stat-box span{display:block;color:var(--muted);font-size:.78rem;font-weight:600;margin-bottom:5px}
+.identity-cell strong{overflow-wrap:anywhere}
+.stat-box strong{font-size:1.5rem;color:var(--blue)}
+footer{padding-bottom:12px}
+.d-none{display:none!important}
+@keyframes fadeUp{from{opacity:0;transform:translateY(8px)}to{opacity:1;transform:translateY(0)}}
+@keyframes pulse{50%{transform:scale(1.03)}}
+@keyframes bounce{0%,100%{transform:translateY(0)}45%{transform:translateY(-8px)}}
+@media(max-width:575.98px){main.container{padding-left:12px;padding-right:12px}.screen-card{border-radius:18px;padding:20px}.hero-badge{margin-bottom:18px}.feature-row span{flex:1 1 auto;text-align:center}.question-card{min-height:0}.quiz-topbar{padding:18px}.timer-box{min-width:95px}.option-btn{padding:12px}.option-letter{flex-basis:28px;height:28px}.question-title{margin-bottom:18px}}
+@media(prefers-reduced-motion:reduce){*,*::before,*::after{animation-duration:.01ms!important;transition-duration:.01ms!important;scroll-behavior:auto!important}}

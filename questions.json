@@ -1,0 +1,691 @@
+{
+  "subject": "Projek IPAS",
+  "grade": "X",
+  "topic": "Zat dan Perubahannya",
+  "durationMinutes": 60,
+  "multipleChoice": [
+    {
+      "id": "PG001",
+      "type": "multiple_choice",
+      "question": "Segala sesuatu yang memiliki massa dan menempati ruang disebut ....",
+      "options": {
+        "A": "Energi",
+        "B": "Gaya",
+        "C": "Zat",
+        "D": "Suhu",
+        "E": "Cahaya"
+      },
+      "answer": "C",
+      "explanation": "Zat atau materi memiliki massa dan menempati ruang.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG002",
+      "type": "multiple_choice",
+      "question": "Sebuah benda padat memiliki bentuk dan volume yang relatif tetap. Hal tersebut terutama disebabkan oleh ....",
+      "options": {
+        "A": "Partikelnya berjauhan dan bergerak bebas",
+        "B": "Partikelnya tersusun rapat dan bergetar di tempat",
+        "C": "Partikelnya tidak memiliki energi",
+        "D": "Partikelnya selalu berpindah dengan bebas",
+        "E": "Tidak ada gaya tarik antarpartikel"
+      },
+      "answer": "B",
+      "explanation": "Partikel zat padat tersusun rapat dan bergetar di sekitar posisi tetap.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG003",
+      "type": "multiple_choice",
+      "question": "Air yang dituangkan dari botol ke dalam gelas berubah bentuk mengikuti wadahnya, tetapi volumenya relatif tetap. Air termasuk zat ....",
+      "options": {
+        "A": "Padat",
+        "B": "Gas",
+        "C": "Plasma",
+        "D": "Cair",
+        "E": "Koloid"
+      },
+      "answer": "D",
+      "explanation": "Zat cair memiliki volume relatif tetap, tetapi bentuknya mengikuti wadah.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG004",
+      "type": "multiple_choice",
+      "question": "Udara dalam balon dapat mengisi seluruh ruang di dalam balon. Sifat ini menunjukkan bahwa gas ....",
+      "options": {
+        "A": "Memiliki bentuk tetap",
+        "B": "Memiliki volume tetap",
+        "C": "Partikelnya tidak bergerak",
+        "D": "Tidak dapat dimampatkan",
+        "E": "Mengisi ruang yang tersedia"
+      },
+      "answer": "E",
+      "explanation": "Partikel gas bergerak bebas dan menyebar mengisi ruang yang tersedia.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG005",
+      "type": "multiple_choice",
+      "question": "Berikut ini yang termasuk contoh zat murni adalah ....",
+      "options": {
+        "A": "Air suling",
+        "B": "Air laut",
+        "C": "Udara",
+        "D": "Sirup",
+        "E": "Tanah"
+      },
+      "answer": "A",
+      "explanation": "Air suling yang cukup murni terutama tersusun atas H₂O; pilihan lain merupakan campuran.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG006",
+      "type": "multiple_choice",
+      "question": "Zat yang tersusun atas satu jenis atom saja disebut ....",
+      "options": {
+        "A": "Campuran",
+        "B": "Unsur",
+        "C": "Senyawa",
+        "D": "Larutan",
+        "E": "Suspensi"
+      },
+      "answer": "B",
+      "explanation": "Unsur tersusun atas satu jenis atom, seperti besi dan tembaga.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG007",
+      "type": "multiple_choice",
+      "question": "Air dengan rumus kimia H₂O digolongkan sebagai senyawa karena ....",
+      "options": {
+        "A": "Dapat dipisahkan dengan penyaringan biasa",
+        "B": "Hanya tersusun atas satu jenis atom",
+        "C": "Tersusun atas dua jenis unsur yang berikatan secara kimia",
+        "D": "Selalu memiliki warna tertentu",
+        "E": "Komponennya dapat dipisahkan dengan magnet"
+      },
+      "answer": "C",
+      "explanation": "Air tersusun atas hidrogen dan oksigen yang berikatan secara kimia dalam perbandingan tertentu.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG008",
+      "type": "multiple_choice",
+      "question": "Campuran pasir dan air dapat dipisahkan dengan penyaringan karena ....",
+      "options": {
+        "A": "Pasir berubah menjadi gas",
+        "B": "Air dan pasir membentuk senyawa",
+        "C": "Pasir larut sempurna dalam air",
+        "D": "Pasir tidak larut dan partikelnya tertahan oleh penyaring",
+        "E": "Air berubah menjadi zat padat"
+      },
+      "answer": "D",
+      "explanation": "Filtrasi memisahkan padatan tak larut dari cairannya menggunakan penyaring.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG009",
+      "type": "multiple_choice",
+      "question": "Seorang siswa mencampurkan gula ke dalam air hingga gula tidak terlihat dan campuran tampak seragam. Campuran tersebut disebut ....",
+      "options": {
+        "A": "Unsur",
+        "B": "Senyawa murni",
+        "C": "Suspensi",
+        "D": "Campuran heterogen",
+        "E": "Larutan homogen"
+      },
+      "answer": "E",
+      "explanation": "Gula terlarut dan tersebar merata dalam air sehingga membentuk larutan homogen.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG010",
+      "type": "multiple_choice",
+      "question": "Ketika volume tabung gas diperkecil, gas dapat dimampatkan karena ....",
+      "options": {
+        "A": "Jarak antarpartikel gas relatif besar",
+        "B": "Partikel gas tidak memiliki massa",
+        "C": "Partikel gas berhenti bergerak",
+        "D": "Semua partikel gas berubah menjadi cair",
+        "E": "Partikel gas memiliki bentuk tetap"
+      },
+      "answer": "A",
+      "explanation": "Jarak antarpartikel gas relatif besar sehingga volumenya dapat diperkecil dengan tekanan.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG011",
+      "type": "multiple_choice",
+      "question": "Es batu yang dibiarkan di ruangan bersuhu 28°C mencair menjadi air. Peristiwa tersebut merupakan ....",
+      "options": {
+        "A": "Perubahan kimia karena terbentuk zat baru",
+        "B": "Perubahan fisika karena hanya terjadi perubahan wujud",
+        "C": "Reaksi pembakaran",
+        "D": "Pembentukan unsur baru",
+        "E": "Reaksi penguraian kimia"
+      },
+      "answer": "B",
+      "explanation": "Es mencair karena menerima kalor; zatnya tetap H₂O.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG012",
+      "type": "multiple_choice",
+      "question": "Peristiwa berikut yang termasuk perubahan kimia adalah ....",
+      "options": {
+        "A": "Kertas dipotong menjadi dua bagian",
+        "B": "Air membeku di dalam freezer",
+        "C": "Besi berkarat setelah lama terkena udara lembap",
+        "D": "Gula larut dalam air",
+        "E": "Alkohol menguap dari permukaan kulit"
+      },
+      "answer": "C",
+      "explanation": "Perkaratan merupakan reaksi kimia yang menghasilkan senyawa baru.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG013",
+      "type": "multiple_choice",
+      "question": "Lilin yang menyala mengalami dua jenis perubahan sekaligus, yaitu ....",
+      "options": {
+        "A": "Perubahan kimia saja",
+        "B": "Perubahan fisika saja",
+        "C": "Tidak mengalami perubahan",
+        "D": "Perubahan fisika pada pelelehan lilin dan perubahan kimia pada pembakaran uap lilin",
+        "E": "Perubahan fisika dan kimia tanpa melibatkan energi"
+      },
+      "answer": "D",
+      "explanation": "Lilin meleleh secara fisika, sedangkan pembakaran uap lilin menghasilkan zat baru.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG014",
+      "type": "multiple_choice",
+      "question": "Gelembung gas muncul ketika dua larutan dicampurkan. Mengapa ini dapat menjadi petunjuk perubahan kimia?",
+      "options": {
+        "A": "Semua gelembung pasti zat baru hasil reaksi",
+        "B": "Gas selalu terbentuk ketika dua zat dicampurkan",
+        "C": "Gelembung membuktikan campuran homogen",
+        "D": "Semua gas berasal dari cairan yang mendidih",
+        "E": "Gelembung dapat menunjukkan terbentuknya gas melalui reaksi, tetapi perlu memastikan bukan proses fisika"
+      },
+      "answer": "E",
+      "explanation": "Pembentukan gas dapat menjadi indikator reaksi, tetapi gelembung juga bisa berasal dari pendidihan atau gas terlarut.",
+      "difficulty": "sulit"
+    },
+    {
+      "id": "PG015",
+      "type": "multiple_choice",
+      "question": "Air dipanaskan hingga mendidih dan berubah menjadi uap. Perubahan yang terjadi adalah ....",
+      "options": {
+        "A": "Perubahan fisika karena zat tetap berupa H₂O",
+        "B": "Perubahan kimia karena oksigen terbentuk",
+        "C": "Perubahan kimia karena hidrogen terbentuk",
+        "D": "Pembentukan senyawa baru",
+        "E": "Penguraian air menjadi unsur-unsurnya"
+      },
+      "answer": "A",
+      "explanation": "Pendidihan adalah perubahan wujud; molekul air tidak terurai hanya karena mendidih.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG016",
+      "type": "multiple_choice",
+      "question": "Kayu dibakar hingga menghasilkan arang, asap, dan gas. Proses tersebut tergolong perubahan kimia karena ....",
+      "options": {
+        "A": "Kayu hanya berubah ukuran",
+        "B": "Suhu kayu mengalami kenaikan",
+        "C": "Terbentuk zat-zat baru yang sifatnya berbeda dari kayu semula",
+        "D": "Semua zat kehilangan massanya",
+        "E": "Kayu hanya berubah wujud menjadi cair"
+      },
+      "answer": "C",
+      "explanation": "Pembakaran mengubah komposisi kimia bahan dan menghasilkan zat baru.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG017",
+      "type": "multiple_choice",
+      "question": "Garam dilarutkan dalam air, lalu air diuapkan hingga kristal garam terbentuk kembali. Kesimpulan yang tepat adalah ....",
+      "options": {
+        "A": "Garam berubah menjadi unsur baru",
+        "B": "Garam selalu mengalami perubahan kimia ketika larut",
+        "C": "Air dan garam membentuk senyawa baru",
+        "D": "Pelarutan dan penguapan merupakan perubahan fisika yang memungkinkan garam diperoleh kembali",
+        "E": "Garam kehilangan seluruh massanya"
+      },
+      "answer": "D",
+      "explanation": "Pelarutan dan penguapan merupakan perubahan fisika; garam dapat diperoleh kembali.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG018",
+      "type": "multiple_choice",
+      "question": "Cuka dicampurkan dengan soda kue dan terbentuk gelembung gas. Fenomena ini terutama menunjukkan ....",
+      "options": {
+        "A": "Perubahan fisika akibat pelelehan",
+        "B": "Reaksi kimia yang menghasilkan gas karbon dioksida",
+        "C": "Pembekuan air",
+        "D": "Penguapan cuka saja",
+        "E": "Pembentukan unsur baru"
+      },
+      "answer": "B",
+      "explanation": "Asam asetat bereaksi dengan natrium bikarbonat dan menghasilkan CO₂, air, serta natrium asetat.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG019",
+      "type": "multiple_choice",
+      "question": "Paku besi di udara lembap mengalami perubahan warna dan terbentuk karat. Pernyataan yang tepat adalah ....",
+      "options": {
+        "A": "Besi hanya mengalami perubahan bentuk",
+        "B": "Karat merupakan besi cair yang membeku",
+        "C": "Perubahan hanya disebabkan pemuaian",
+        "D": "Karat adalah unsur besi murni yang dapat diambil dengan magnet",
+        "E": "Besi bereaksi dengan oksigen dan air sehingga terbentuk produk korosi"
+      },
+      "answer": "E",
+      "explanation": "Korosi adalah proses kimia yang melibatkan reaksi besi dengan lingkungan.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG020",
+      "type": "multiple_choice",
+      "question": "Kapur barus makin kecil di lemari, sedangkan telur dimasak hingga mengeras. Kesimpulan yang tepat adalah ....",
+      "options": {
+        "A": "Kapur barus mengalami sublimasi, sedangkan pemasakan telur mengubah struktur protein secara sukar balik",
+        "B": "Keduanya hanya perubahan fisika",
+        "C": "Kapur barus mengalami pembakaran dan telur membeku",
+        "D": "Kapur barus mengalami reaksi kimia karena menjadi gas, sedangkan telur tidak berubah",
+        "E": "Keduanya pasti menghasilkan unsur baru"
+      },
+      "answer": "A",
+      "explanation": "Kapur barus menyublim. Pemanasan telur mengubah struktur protein secara sukar balik.",
+      "difficulty": "sulit"
+    },
+    {
+      "id": "PG021",
+      "type": "multiple_choice",
+      "question": "Perubahan wujud zat dari padat langsung menjadi gas tanpa melalui fase cair disebut ....",
+      "options": {
+        "A": "Kondensasi",
+        "B": "Sublimasi",
+        "C": "Deposisi",
+        "D": "Membeku",
+        "E": "Mengembun"
+      },
+      "answer": "B",
+      "explanation": "Sublimasi adalah perubahan wujud padat langsung menjadi gas.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG022",
+      "type": "multiple_choice",
+      "question": "Titik-titik air di bagian luar gelas berisi es terbentuk karena ....",
+      "options": {
+        "A": "Air di dalam gelas menembus dinding gelas",
+        "B": "Es menghasilkan molekul air baru di luar gelas",
+        "C": "Uap air di udara mengembun pada permukaan gelas yang dingin",
+        "D": "Udara berubah menjadi oksigen cair",
+        "E": "Gelas mengalami pembakaran"
+      },
+      "answer": "C",
+      "explanation": "Uap air di udara melepaskan kalor saat menyentuh permukaan dingin dan mengembun.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG023",
+      "type": "multiple_choice",
+      "question": "Perubahan wujud dari gas menjadi cair disebut ....",
+      "options": {
+        "A": "Membeku",
+        "B": "Menyublim",
+        "C": "Menguap",
+        "D": "Mengembun",
+        "E": "Mencair"
+      },
+      "answer": "D",
+      "explanation": "Pengembunan atau kondensasi adalah perubahan wujud gas menjadi cair.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG024",
+      "type": "multiple_choice",
+      "question": "Saat air murni mendidih pada tekanan 1 atmosfer, suhu tetap sekitar 100°C selama pendidihan. Kalor yang diberikan terutama digunakan untuk ....",
+      "options": {
+        "A": "Menghentikan seluruh gerakan partikel",
+        "B": "Mengubah air menjadi unsur hidrogen",
+        "C": "Menurunkan energi partikel menjadi nol",
+        "D": "Membuat massa air bertambah",
+        "E": "Mengatasi gaya tarik antarmolekul agar air berubah menjadi uap"
+      },
+      "answer": "E",
+      "explanation": "Kalor laten digunakan untuk perubahan fase, bukan menaikkan suhu selama fase berubah pada kondisi tersebut.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG025",
+      "type": "multiple_choice",
+      "question": "Alkohol yang diteteskan pada kulit terasa dingin setelah beberapa saat karena ....",
+      "options": {
+        "A": "Alkohol menguap dengan menyerap kalor dari kulit",
+        "B": "Alkohol membeku dan melepaskan kalor ke kulit",
+        "C": "Kulit menghasilkan alkohol baru",
+        "D": "Alkohol bereaksi dengan kulit membentuk es",
+        "E": "Alkohol menaikkan suhu kulit melalui kondensasi"
+      },
+      "answer": "A",
+      "explanation": "Penguapan memerlukan energi; alkohol menyerap kalor dari kulit.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG026",
+      "type": "multiple_choice",
+      "question": "Dua benda bermassa sama dipanaskan dengan energi sama. Benda X mengalami kenaikan suhu lebih besar daripada Y. Jika kalor hilang diabaikan ....",
+      "options": {
+        "A": "Kalor jenis X lebih besar daripada Y",
+        "B": "Kalor jenis X sama dengan Y",
+        "C": "Kalor jenis X lebih kecil daripada Y",
+        "D": "Massa X lebih besar daripada Y",
+        "E": "Benda Y tidak memiliki kalor jenis"
+      },
+      "answer": "C",
+      "explanation": "Dari Q = mcΔT, untuk massa dan kalor sama, kenaikan suhu lebih besar berarti kalor jenis lebih kecil.",
+      "difficulty": "sulit"
+    },
+    {
+      "id": "PG027",
+      "type": "multiple_choice",
+      "question": "Zat padat dipanaskan. Suhu meningkat hingga titik leleh lalu tetap meskipun pemanasan dilanjutkan. Hal ini karena ....",
+      "options": {
+        "A": "Zat kehilangan seluruh energinya",
+        "B": "Zat berubah menjadi unsur baru",
+        "C": "Partikel berhenti bergerak sepenuhnya",
+        "D": "Energi digunakan untuk mengubah fase padat menjadi cair",
+        "E": "Massa zat bertambah selama mencair"
+      },
+      "answer": "D",
+      "explanation": "Pada titik leleh, energi digunakan untuk perubahan fase; suhu tetap selama proses berlangsung.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG028",
+      "type": "multiple_choice",
+      "question": "Benda bermassa 200 gram memiliki volume 50 cm³. Massa jenisnya adalah ....",
+      "options": {
+        "A": "0,25 g/cm³",
+        "B": "4 g/cm³",
+        "C": "10 g/cm³",
+        "D": "150 g/cm³",
+        "E": "250 g/cm³"
+      },
+      "answer": "B",
+      "explanation": "Massa jenis = massa ÷ volume = 200 ÷ 50 = 4 g/cm³.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG029",
+      "type": "multiple_choice",
+      "question": "Benda bermassa jenis 0,8 g/cm³ dimasukkan ke air bermassa jenis sekitar 1 g/cm³. Jika tidak larut atau bereaksi, benda akan ....",
+      "options": {
+        "A": "Tenggelam seluruhnya karena massanya tidak nol",
+        "B": "Melayang karena massa jenisnya lebih besar",
+        "C": "Berubah menjadi gas",
+        "D": "Larut seluruhnya dalam air",
+        "E": "Mengapung karena massa jenisnya lebih kecil daripada air"
+      },
+      "answer": "E",
+      "explanation": "Benda dengan massa jenis lebih kecil daripada cairan cenderung mengapung.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG030",
+      "type": "multiple_choice",
+      "question": "Balok bermassa 540 gram dan volume 200 cm³ dimasukkan ke cairan bermassa jenis 1,2 g/cm³. Jika tidak larut atau bereaksi, balok akan ....",
+      "options": {
+        "A": "Tenggelam karena massa jenisnya 2,7 g/cm³, lebih besar daripada cairan",
+        "B": "Mengapung karena massanya lebih besar daripada cairan",
+        "C": "Melayang karena massa jenisnya sama",
+        "D": "Menguap karena massa jenisnya besar",
+        "E": "Larut karena massa jenisnya berbeda"
+      },
+      "answer": "A",
+      "explanation": "Massa jenis balok = 540 ÷ 200 = 2,7 g/cm³, lebih besar dari cairan 1,2 g/cm³.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG031",
+      "type": "multiple_choice",
+      "question": "Metode yang tepat untuk memperoleh air jernih dari campuran pasir dan air adalah ....",
+      "options": {
+        "A": "Distilasi bertingkat",
+        "B": "Kromatografi",
+        "C": "Filtrasi",
+        "D": "Sublimasi",
+        "E": "Kristalisasi"
+      },
+      "answer": "C",
+      "explanation": "Filtrasi memisahkan padatan tidak larut seperti pasir dari air.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG032",
+      "type": "multiple_choice",
+      "question": "Campuran pasir dan serbuk besi dipisahkan untuk memperoleh kembali kedua komponennya. Metode paling tepat adalah ....",
+      "options": {
+        "A": "Penyulingan",
+        "B": "Penguapan",
+        "C": "Kromatografi kertas",
+        "D": "Penyaringan kertas saring biasa",
+        "E": "Menggunakan magnet untuk mengambil besi, kemudian mengambil pasir"
+      },
+      "answer": "E",
+      "explanation": "Serbuk besi tertarik magnet, sedangkan pasir tidak.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "PG033",
+      "type": "multiple_choice",
+      "question": "Campuran air dan minyak pelumas bekas membentuk dua lapisan. Metode pemisahan yang sesuai adalah ....",
+      "options": {
+        "A": "Corong pisah",
+        "B": "Sublimasi",
+        "C": "Kromatografi kertas",
+        "D": "Pemisahan dengan magnet",
+        "E": "Kristalisasi"
+      },
+      "answer": "A",
+      "explanation": "Corong pisah dapat memisahkan dua cairan yang tidak saling bercampur.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG034",
+      "type": "multiple_choice",
+      "question": "Air garam dipanaskan hingga air menguap untuk memperoleh kristal garam. Metode ini memanfaatkan perbedaan ....",
+      "options": {
+        "A": "Warna kedua zat",
+        "B": "Ukuran partikel garam dan air",
+        "C": "Sifat magnetik kedua zat",
+        "D": "Volatilitas atau kemudahan menguap komponen campuran",
+        "E": "Titik beku kedua zat"
+      },
+      "answer": "D",
+      "explanation": "Air lebih mudah menguap daripada garam sehingga garam tertinggal.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG035",
+      "type": "multiple_choice",
+      "question": "Untuk memperoleh air suling dari larutan garam dan mengumpulkan kembali airnya, metode paling tepat adalah ....",
+      "options": {
+        "A": "Filtrasi saja",
+        "B": "Distilasi",
+        "C": "Pemisahan menggunakan magnet",
+        "D": "Pengayakan",
+        "E": "Dekantasi saja"
+      },
+      "answer": "B",
+      "explanation": "Distilasi menguapkan pelarut dan mengembunkan uapnya untuk dikumpulkan sebagai distilat.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG036",
+      "type": "multiple_choice",
+      "question": "Untuk memisahkan zat warna dalam tinta spidol berbasis air, metode paling sesuai adalah ....",
+      "options": {
+        "A": "Filtrasi biasa",
+        "B": "Pengayakan",
+        "C": "Kromatografi kertas",
+        "D": "Pemisahan dengan magnet",
+        "E": "Corong pisah"
+      },
+      "answer": "C",
+      "explanation": "Kromatografi memisahkan komponen berdasarkan perbedaan interaksi dengan fase diam dan fase gerak.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG037",
+      "type": "multiple_choice",
+      "question": "Perhatikan bahan: (1) udara, (2) air murni, (3) kuningan, (4) oksigen murni. Kelompok yang seluruhnya merupakan campuran adalah ....",
+      "options": {
+        "A": "(1) dan (2)",
+        "B": "(2) dan (4)",
+        "C": "(1) dan (4)",
+        "D": "(2) dan (3)",
+        "E": "(1) dan (3)"
+      },
+      "answer": "E",
+      "explanation": "Udara dan kuningan adalah campuran; air murni senyawa dan oksigen murni unsur.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG038",
+      "type": "multiple_choice",
+      "question": "Es bermassa 10 gram mencair dalam wadah tertutup. Massa air tetap 10 gram. Pernyataan tepat adalah ....",
+      "options": {
+        "A": "Massa tetap karena perubahan fisika tidak mengubah jumlah materi dalam sistem tertutup",
+        "B": "Massa berkurang karena es menyerap kalor",
+        "C": "Massa bertambah karena air terbentuk dari kalor",
+        "D": "Massa hilang ketika ikatan antarpartikel berubah",
+        "E": "Air tidak memiliki massa setelah es mencair"
+      },
+      "answer": "A",
+      "explanation": "Perubahan wujud tidak menghilangkan materi; massa sistem tertutup tetap.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "PG039",
+      "type": "multiple_choice",
+      "question": "Batu kapur murni dipanaskan kuat dalam wadah terbuka menghasilkan kalsium oksida padat dan CO₂ yang lepas. Massa padatan tersisa lebih kecil karena ....",
+      "options": {
+        "A": "Massa menghilang karena kalor mengubah materi menjadi energi sepenuhnya",
+        "B": "Semua padatan berubah menjadi gas",
+        "C": "Massa berkurang karena alat timbang tidak dapat mengukur zat kimia",
+        "D": "Sebagian massa sistem meninggalkan wadah sebagai gas karbon dioksida",
+        "E": "Reaksi tidak menghasilkan zat baru"
+      },
+      "answer": "D",
+      "explanation": "Reaksi CaCO₃ → CaO + CO₂ menghasilkan gas yang keluar; massa total semua produk tetap kekal.",
+      "difficulty": "sulit"
+    },
+    {
+      "id": "PG040",
+      "type": "multiple_choice",
+      "question": "Campuran serbuk besi, pasir, dan garam dapur akan dipisahkan. Urutan yang paling tepat adalah ....",
+      "options": {
+        "A": "Menyaring campuran kering lalu menguapkan pasir dan garam sekaligus",
+        "B": "Gunakan magnet untuk besi, tambahkan air untuk melarutkan garam, saring pasir, lalu uapkan air untuk memperoleh garam",
+        "C": "Uapkan seluruh campuran lalu pisahkan besi dengan kertas saring",
+        "D": "Tambahkan minyak agar ketiga zat menguap pada suhu berbeda",
+        "E": "Panaskan hingga semua komponen menjadi gas lalu dinginkan bersama"
+      },
+      "answer": "B",
+      "explanation": "Magnet memisahkan besi; air melarutkan garam; filtrasi memisahkan pasir; penguapan memperoleh kembali garam.",
+      "difficulty": "sulit"
+    }
+  ],
+  "essay": [
+    {
+      "id": "ESAI001",
+      "type": "essay",
+      "question": "Jelaskan perbedaan unsur, senyawa, dan campuran. Berikan masing-masing dua contoh.",
+      "modelAnswer": "Unsur tersusun atas satu jenis atom, misalnya besi (Fe) dan tembaga (Cu). Senyawa terbentuk dari dua atau lebih unsur yang berikatan kimia dalam perbandingan tertentu, misalnya air (H₂O) dan karbon dioksida (CO₂). Campuran adalah gabungan beberapa zat yang tidak membentuk satu zat murni melalui reaksi kimia, misalnya udara dan air garam.",
+      "keywords": [
+        "unsur",
+        "atom",
+        "senyawa",
+        "ikatan",
+        "campuran",
+        "contoh"
+      ],
+      "explanation": "Unsur, senyawa, dan campuran dibedakan berdasarkan komposisi dan cara komponen penyusunnya bergabung.",
+      "difficulty": "mudah"
+    },
+    {
+      "id": "ESAI002",
+      "type": "essay",
+      "question": "Kelompokkan peristiwa berikut sebagai perubahan fisika atau kimia dan jelaskan alasannya: (1) es mencair, (2) kertas dibakar hingga menjadi abu, (3) garam dilarutkan dalam air.",
+      "modelAnswer": "(1) Es mencair adalah perubahan fisika karena hanya berubah wujud dan tetap H₂O. (2) Kertas dibakar adalah perubahan kimia karena menghasilkan zat baru seperti abu dan gas. (3) Garam dilarutkan dalam air adalah perubahan fisika karena garam dapat diperoleh kembali melalui penguapan air.",
+      "keywords": [
+        "fisika",
+        "kimia",
+        "wujud",
+        "zat baru",
+        "garam",
+        "penguapan"
+      ],
+      "explanation": "Perubahan fisika tidak menghasilkan zat baru, sedangkan perubahan kimia menghasilkan zat dengan komposisi berbeda.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "ESAI003",
+      "type": "essay",
+      "question": "Benda bermassa 270 gram dan volume 100 cm³. Hitung massa jenisnya. Jika dimasukkan ke cairan bermassa jenis 2,5 g/cm³, apakah benda mengapung atau tenggelam? Jelaskan.",
+      "modelAnswer": "Massa jenis = massa/volume = 270/100 = 2,7 g/cm³. Karena massa jenis benda (2,7 g/cm³) lebih besar daripada massa jenis cairan (2,5 g/cm³), benda tenggelam, dengan asumsi tidak bereaksi atau larut.",
+      "keywords": [
+        "270",
+        "100",
+        "2,7",
+        "massa jenis",
+        "tenggelam",
+        "2,5"
+      ],
+      "explanation": "Massa jenis adalah massa dibagi volume. Benda yang massa jenisnya lebih besar daripada cairan cenderung tenggelam.",
+      "difficulty": "sedang"
+    },
+    {
+      "id": "ESAI004",
+      "type": "essay",
+      "question": "Jelaskan secara berurutan cara memisahkan campuran serbuk besi, pasir, dan garam dapur agar ketiga bahan dapat diperoleh kembali.",
+      "modelAnswer": "Gunakan magnet untuk mengambil besi. Tambahkan air pada campuran pasir dan garam agar garam larut. Saring campuran untuk memisahkan pasir, lalu keringkan pasir. Uapkan air dari larutan garam hingga kristal garam diperoleh. Jika air juga harus dikumpulkan, gunakan distilasi.",
+      "keywords": [
+        "magnet",
+        "air",
+        "larut",
+        "saring",
+        "pasir",
+        "uapkan",
+        "garam"
+      ],
+      "explanation": "Pemisahan memanfaatkan sifat magnetik, kelarutan, filtrasi, dan perbedaan volatilitas.",
+      "difficulty": "sulit"
+    },
+    {
+      "id": "ESAI005",
+      "type": "essay",
+      "question": "Siswa memanaskan 50 gram zat dalam wadah terbuka. Setelah reaksi selesai, massa padatan tersisa 32 gram. Ia menyimpulkan 18 gram materi telah musnah. Apakah kesimpulan ini benar? Jelaskan dengan hukum kekekalan massa.",
+      "modelAnswer": "Kesimpulan itu tidak tepat. Reaksi mungkin menghasilkan gas yang keluar dari wadah terbuka. Berkurangnya massa padatan tidak berarti materi musnah. Jika seluruh produk termasuk gas diperhitungkan, massa total tetap 50 gram. Sistem tertutup yang sesuai dan aman dapat digunakan untuk menguji kekekalan massa.",
+      "keywords": [
+        "tidak tepat",
+        "gas",
+        "wadah terbuka",
+        "kekekalan massa",
+        "50 gram",
+        "sistem tertutup"
+      ],
+      "explanation": "Hukum kekekalan massa menyatakan massa total sebelum dan sesudah reaksi sama dalam sistem tertutup.",
+      "difficulty": "sulit"
+    }
+  ]
+}
